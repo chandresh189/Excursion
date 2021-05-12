@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  color: aquamarine;
+  font-size: 18px;
+}
+
+.sub-head, h4 {
+  color: white;
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.title-head {
+  font-family: verdana;
+  font-size: 21px;
+  font-weight: lighter;
+  color: gray;
+}
+
+.sign {
+  text-align: right;
+  font-size: 24px;
+  color:gray;
+}
